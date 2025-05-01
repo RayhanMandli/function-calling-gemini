@@ -1,13 +1,4 @@
----
 
-```markdown
-# 🔧 Function Calling in Gemini API (with Node.js)
-
-This repository demonstrates how to implement **Function Calling** using the Google Gemini API via the `@google/genai` Node.js SDK.
-
-> Function Calling allows AI models to intelligently decide **when** and **how** to invoke specific functions based on user input. This bridges AI and application logic in a seamless way.
-
----
 
 ## 📚 What is Function Calling?
 
